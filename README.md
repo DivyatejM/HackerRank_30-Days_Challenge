@@ -14,3 +14,5 @@ Day-10: Binary Numbers<br>
 Day-11: 2D Arrays<br>
 Day-12: Inheritance<br>
 Day-13: Abstract Class<br>
+Day-14: Scope<br>
+Day-13: Linked List<br>
