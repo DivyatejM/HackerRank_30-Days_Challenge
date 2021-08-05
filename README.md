@@ -22,3 +22,6 @@ Day-18: Queues and Stacks<br>
 Day-19: Interfaces<br>
 Day-20: Sorting<br>
 Day-21: Generics<br>
+Day-22: Binary Search Trees<br>
+
+
