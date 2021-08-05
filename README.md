@@ -19,3 +19,4 @@ Day-15: Linked List<br>
 Day-16: Exceptions - Strings to Integers<br>
 Day-17: More Exceptoions<br>
 Day-18: Queues and Stacks<br>
+Day-19: Interfaces<br>
