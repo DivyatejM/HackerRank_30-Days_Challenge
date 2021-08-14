@@ -1,7 +1,8 @@
 # HackerRank30
 All the programs are written in C++.
 <br><br>
-Day-1 : Data Types (Addition)<br>
+Day-1 : Hello, World<br>
+Day-1 : Data Types<br>
 Day-2 : Operators<br>
 Day-3 : Introduction to Conditional Statements<br>
 Day-4 : Class vs Instance<br>
@@ -30,3 +31,5 @@ Day-26: Nested Logic<br>
 Day-27: Testing<br>
 Day-28: RegEx, Patterns, and Intro to Databases<br>
 Day-29: Bitwise AND<br>
+
+<br><br>
